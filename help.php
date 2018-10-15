@@ -37,11 +37,11 @@ tr{
 <table class="table table-light table-hover table-striped" >
 <tr>
 <td>STD Code:</td>
-<td>0326</td>
+<td>xxxx</td>
 </tr>
 <tr>
 <td><strong>EPABX Nos.:</strong></td>
-<td>2230028, 2230133-149</td>
+<td>xxxxxx, xxxxxxxxx</td>
 </tr>
 <tr>
 <td><strong>FAX</strong></td>
@@ -49,43 +49,43 @@ tr{
 </tr>
 <tr>
 <td>Chairman cum Managing Director</td>
-<td>2230153</td>
+<td>xxxxxxx</td>
 </tr>
 <tr>
 <td>Operations</td>
-<td>2230165</td>
+<td>xxxxxxxx</td>
 </tr>
 <tr>
 <td>Personnel</td>
-<td>2230281</td>
+<td>xxxxxx</td>
 </tr>
 <tr>
 <td>Finance</td>
-<td>2230256</td>
+<td>xxxxxx</td>
 </tr>
 <tr>
 <td>Vigilance</td>
-<td>2230173</td>
+<td>xxxxxxxxx</td>
 </tr>
 <tr>
 <td>Marketing &amp; Quality Control</td>
-<td>2230195</td>
+<td>xxxxxxx</td>
 </tr>
 <tr>
 <td>Material Management</td>
-<td>2230183</td>
+<td>xxxxxxx</td>
 </tr>
 <tr>
 <td>E&amp;M</td>
-<td>2230186</td>
+<td>xxxxxxxx</td>
 </tr>
 <tr>
 <td>Safety</td>
-<td>2230176</td>
+<td>xxxxxxxx</td>
 </tr>
 <tr>
 <td>PRO</td>
-<td>2230220</td>
+<td>xxxxxxx</td>
 </tr>
 <tr>
 <td></td>
